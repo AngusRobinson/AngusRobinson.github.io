@@ -1,0 +1,11 @@
+# Track only the files served by the website.
+*
+!.gitignore
+!index.html
+!style.css
+!grids/
+grids/*
+!grids/index.html
+!grids/showcase/
+grids/showcase/*
+!grids/showcase/*.svg

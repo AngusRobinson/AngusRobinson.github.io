@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176" font-family="Helvetica, Arial, sans-serif">
+<rect width="176" height="176" fill="#fff"/>
+<rect x="3" y="3" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="20.0" y="27.0" font-size="19" text-anchor="middle" fill="#111">S</text>
+<rect x="37" y="3" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="54.0" y="27.0" font-size="19" text-anchor="middle" fill="#111">T</text>
+<rect x="71" y="3" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="88.0" y="27.0" font-size="19" text-anchor="middle" fill="#111">A</text>
+<rect x="105" y="3" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="122.0" y="27.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="139" y="3" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="156.0" y="27.0" font-size="19" text-anchor="middle" fill="#111">G</text>
+<rect x="3" y="37" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="20.0" y="61.0" font-size="19" text-anchor="middle" fill="#111">T</text>
+<rect x="37" y="37" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="54.0" y="61.0" font-size="19" text-anchor="middle" fill="#111">E</text>
+<rect x="71" y="37" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="88.0" y="61.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="105" y="37" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="122.0" y="61.0" font-size="19" text-anchor="middle" fill="#111">O</text>
+<rect x="139" y="37" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="156.0" y="61.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="3" y="71" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="20.0" y="95.0" font-size="19" text-anchor="middle" fill="#111">A</text>
+<rect x="37" y="71" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="54.0" y="95.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="71" y="71" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="88.0" y="95.0" font-size="19" text-anchor="middle" fill="#111">A</text>
+<rect x="105" y="71" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="122.0" y="95.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="139" y="71" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="156.0" y="95.0" font-size="19" text-anchor="middle" fill="#111">A</text>
+<rect x="3" y="105" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="20.0" y="129.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="37" y="105" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="54.0" y="129.0" font-size="19" text-anchor="middle" fill="#111">O</text>
+<rect x="71" y="105" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="88.0" y="129.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="105" y="105" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="122.0" y="129.0" font-size="19" text-anchor="middle" fill="#111">E</text>
+<rect x="139" y="105" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="156.0" y="129.0" font-size="19" text-anchor="middle" fill="#111">T</text>
+<rect x="3" y="139" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="20.0" y="163.0" font-size="19" text-anchor="middle" fill="#111">G</text>
+<rect x="37" y="139" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="54.0" y="163.0" font-size="19" text-anchor="middle" fill="#111">N</text>
+<rect x="71" y="139" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="88.0" y="163.0" font-size="19" text-anchor="middle" fill="#111">A</text>
+<rect x="105" y="139" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="122.0" y="163.0" font-size="19" text-anchor="middle" fill="#111">T</text>
+<rect x="139" y="139" width="34" height="34" fill="#fff" stroke="#888" stroke-width="1"/>
+<text x="156.0" y="163.0" font-size="19" text-anchor="middle" fill="#111">S</text>
+<rect x="3" y="3" width="170" height="170" fill="none" stroke="#111" stroke-width="3"/>
+</svg>
