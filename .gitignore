@@ -9,3 +9,16 @@ grids/*
 !grids/showcase/
 grids/showcase/*
 !grids/showcase/*.svg
+!historical-decipherment/
+historical-decipherment/*
+!historical-decipherment/index.html
+!historical-decipherment/labbe/
+historical-decipherment/labbe/*
+!historical-decipherment/labbe/*.html
+!historical-decipherment/labbe/scans/
+historical-decipherment/labbe/scans/*
+!historical-decipherment/labbe/scans/*.jpg
+!historical-decipherment/labbe/fragments/
+historical-decipherment/labbe/fragments/*
+!historical-decipherment/labbe/fragments/*.jpg
+!historical-decipherment/labbe/fragments/*.png
