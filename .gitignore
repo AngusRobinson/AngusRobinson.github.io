@@ -22,3 +22,6 @@ historical-decipherment/labbe/scans/*
 historical-decipherment/labbe/fragments/*
 !historical-decipherment/labbe/fragments/*.jpg
 !historical-decipherment/labbe/fragments/*.png
+
+!historical-decipherment/seure/
+!historical-decipherment/seure/**
