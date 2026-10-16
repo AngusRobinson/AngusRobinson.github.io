@@ -48,3 +48,9 @@
 
 .article-navigation{display:flex;flex-wrap:wrap;gap:6px 22px;max-width:none;margin:-24px 0 28px}.article-navigation a{margin:0}
 #reward-hacking-appendix .appendix-subtitle{font-size:1.1rem;margin-top:-12px;margin-bottom:28px}
+
+.context-examples{margin-left:24px!important;margin-right:24px!important;color:var(--muted)}
+.six-group-label{grid-row:1;font-size:.9rem;color:var(--muted);text-align:center;margin-bottom:8px}
+.six-sorted>.six-specimens{grid-column:1;grid-row:2}
+.six-sorted>.six-specimens:last-child{grid-column:3}
+.six-sorted>.six-group-separator{grid-column:2;grid-row:1 / 3}
